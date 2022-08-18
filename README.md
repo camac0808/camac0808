@@ -13,7 +13,7 @@
   
   <h3 align="center">📫Accounts📫</h3>
   <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=GMAIL&logoColor=white&link=mailto:https://gmail.com/zqzwzazs"/></a>&nbsp
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white&link=https://github.com/camac0808"/></a>&nbsp
   <img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=white"/></a>&nbsp
   
   <br><br>
