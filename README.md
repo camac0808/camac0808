@@ -1,7 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Welcome%20👋&fontSize=90)
 
-<!--
-**camac0808/camac0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Type some Markdown on the left
+- See HTML in the right
+- ✨Magic ✨
+
+<h3 align="center">⚡Technology Stack⚡</h3>
+<p align="center">Tech that I've used at least once</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 
 Here are some ideas to get you started:
 
