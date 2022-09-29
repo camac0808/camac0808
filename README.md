@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Welcome%20👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Welcome%20👋&fontSize=90)
 <div align="center">
   <h3 align="center">⚡Technology Stack⚡</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp
