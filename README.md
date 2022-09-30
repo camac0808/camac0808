@@ -7,9 +7,6 @@
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white"/></a>&nbsp
   
-  <h3 align="center">🌱Tools🌱</h3>
-  <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=VISUAL STUDIO CODE&logoColor=white"/></a>&nbsp
-  
   <h3 align="center">📫Accounts📫</h3>
   
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=GMAIL&logoColor=white&link=mailto:zqzwzazs@gmail.com)](mailto:zqzwzazs@gmail.com)
